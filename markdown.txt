@@ -1,0 +1,22 @@
+﻿# **Evil Artifacts**
+Want some more challenging gameplay? Give these artifacts a try.
+
+![blinding](https://i.imgur.com/YxjkON2.png "Artifact of Blinding")   __*Artifact of Blinding*__   ![blinding](https://i.imgur.com/YxjkON2.png "Artifact of Blinding")
+*"Turns out this planet doesn't have light! ...or something like that."*
++ If active, the map will be pitch dark, with the only light sources being actors and teleporters.
++ Feeling lost? Use ``blinding_easy_mode`` to double your vision radius and make all map objects emit light.
+
+![bombardment](https://i.imgur.com/jCS0Mx2.png "Artifact of Bombardment")   __*Artifact of Bombardment*__   ![bombardment](https://i.imgur.com/jCS0Mx2.png "Artifact of Bombardment")
+*"Don't you just love those missiles Providence fires? Seems like he got some range increases and now he's sniping you from his ship!"*
++ If active, after 10 seconds on any stage, a barrage of missiles will target every player on the map. If you're hit straight on, you die. If you're lucky, you can narrowly escape with only taking some damage...
++ Can't dodge? Use ``bombardment_easy_mode`` to make missiles leave you at 1HP instead of straight up killing you.
+
+![flood](https://i.imgur.com/GEK51Bd.png "Artifact of The Flood")   __*Artifact of The Flood*__   ![flood](https://i.imgur.com/GEK51Bd.png "Artifact of The Flood")
+*"You know that planet on *Interstellar* that has tidal waves going around all the time? Yeah, that."*
++ If active, after 10 seconds on any stage, there's a chance of a tidal wave that pushes players spawning from either side of the screen. If you get caught between two opposing waves you get *Wave Crashed* for 5 seconds. While *Wave Crashed*, waves will have no effect on you, but your speed and armor gets cut by half.
++ Are enemies behind waves killing you while your armor is down? Use ``flood_easy_mode`` to disable *Wave Crashed*'s debuffs.
+
+### **Flags (add them on your profile)**
++ ``blinding_easy_mode`` - double your vision radius and make all map objects emit light
++ ``bombardment_easy_mode`` - missiles leave you at 1HP instead of killing you
++ ``flood_easy_mode`` - disable debuffs from getting caught between waves
